@@ -29,7 +29,7 @@
 1. 克隆本仓库：
 
 ```bash
-git clone https://github.com/<你的用户名>/blockchain-notes_52.git
+git clone https://github.com/hxy134679/blockchain-notes_52
 cd blockchain-notes_52
 ```
 
